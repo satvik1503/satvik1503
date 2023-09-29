@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @satvik1503
+- 👀 I’m interested in learning programming languages
+- 🌱 I’m currently learning c and java as well
+- 📫 How to reach me via email
